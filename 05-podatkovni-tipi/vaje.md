@@ -1,6 +1,6 @@
 # Strukture
 
-S pomočjo ukaza `cargo` začnite nov projekt po imenu `vaje`.
+S pomočjo ukaza `cargo` začnite nov projekt po imenu `vaje5`.
 
 ## Osnovne strukture
 
